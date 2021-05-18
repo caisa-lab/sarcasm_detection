@@ -1,0 +1,9 @@
+data/
+__pycache__/
+.vscode/
+outputs/**
+images/
+**/.ipynb_checkpoints/**
+sma_toolkit/**
+notebooks/**
+*.ipynb

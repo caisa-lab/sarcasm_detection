@@ -1,0 +1,7 @@
+{
+    "num_labels": 2,
+    "epochs": 50,
+    "batch_size": 32,
+    "users_dim": 400,
+    "lr": 1e-5
+}

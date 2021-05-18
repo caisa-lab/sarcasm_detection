@@ -1,0 +1,13 @@
+{
+    "in_dim": 400,
+    "out_dim": 100,
+    "heads": 2,
+    "dropout": 0.4,
+    "num_labels": 2, 
+    "lr": 5e-5, 
+    "epochs": 1500,
+    "overfit": 0, 
+    "test_size": 0.2,
+    "users_included": 1,
+    "concat": 0
+}
