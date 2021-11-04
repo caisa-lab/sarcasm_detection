@@ -1,4 +1,4 @@
-# Perceived and Intended Sarcasm Detection with Graph AttentionNetworks
+# Perceived and Intended Sarcasm Detection with Graph Attention Networks
 
 ## Requirements:
 
