@@ -205,4 +205,3 @@ dependencies:
     - torch-spline-conv==1.2.0
     - torchtext==0.8.1
     - tweet-preprocessor==0.6.0
-prefix: /ukp-storage-1/plepi/anaconda3/envs/spirs
